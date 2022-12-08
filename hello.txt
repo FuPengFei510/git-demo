@@ -6,6 +6,10 @@ hello,fpf!hello,git!
 hello,fpf!hello,git!
 hello,fpf!hello,git!
 hello,fpf!hello,git!
+hello,fpf!rello,git!
+hello,fpf!hello,git!
+hello,fpf!hello,git!
+hello,fpf!hello,git!
 hello,fpf!hello,git!
 hello,fpf!hello,git!  master test
-hello,fpf!hello,git!
+hello,fpf!hello,git!  hot-fix test
